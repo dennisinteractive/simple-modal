@@ -1,6 +1,6 @@
 {
   "name": "simple-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple modal popup plugin",
   "main": "src/modal.js",
   "scripts": {
@@ -10,11 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/dennisinteractive/simple-modal.git"
   },
+  "author": "Cristina Llamas Roman <cristina.llamas.roman@gmail.com>",
   "keywords": [
     "modal",
     "popup",
     "js"
   ],
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/dennisinteractive/simple-modal/issues"
   },
