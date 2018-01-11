@@ -8,17 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matt3188/simple-modal.git"
+    "url": "git+https://github.com/dennisinteractive/simple-modal.git"
   },
   "keywords": [
     "modal",
     "popup",
     "js"
   ],
-  "author": "Matt Coleman <hello@matt-coleman.co.uk>",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matt3188/simple-modal/issues"
+    "url": "https://github.com/dennisinteractive/simple-modal/issues"
   },
   "devDependencies": {
     "lite-server": "^2.2.0"

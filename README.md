@@ -20,13 +20,13 @@ This plugin should:
 
 - Add the ability to close modal with `ESC` key
 - Add library of animations that can be added to the popup
-- Be able to customise close button
+- Be able to customize close button
 
 ## Usage
 
 ```javascript
 var myModal = new Modal({
-  
+
   // Can be a string or reference an ID
   content: myContent,
 
