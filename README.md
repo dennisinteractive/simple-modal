@@ -25,6 +25,7 @@ This plugin should:
 ## Usage
 
 ```javascript
+var Modal = require('simple-modal');
 var myModal = new Modal({
 
   // Can be a string or reference an ID
